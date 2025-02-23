@@ -11,9 +11,6 @@ git clone https://github.com/LucasVer17/fylo-website.git
 Instale o Tailwind:
 npm install -D tailwindcss
 
-Crie o arquivo de configuração (se necessário):
-npx tailwindcss init
-
 Compile o CSS com:
 npm run watch
 

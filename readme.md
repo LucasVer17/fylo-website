@@ -19,7 +19,3 @@ npm run watch
 
 Abra o index.html no navegador ou use um servidor local.
 
-### Tecnologias Usadas
-HTML5
-Tailwind CSS
-JavaScript

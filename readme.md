@@ -8,10 +8,10 @@ Como rodar
 Clone o repositório:
 git clone https://github.com/LucasVer17/fylo-website.git
 
-Instale o Tailwind:
-npm install -D tailwindcss
+Instale as dependências:
+npm install
 
-Compile o CSS com:
+Rode o projeto:
 npm run watch
 
 Abra o index.html no navegador ou use um servidor local.
